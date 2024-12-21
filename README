@@ -26,15 +26,17 @@
 
 :heavy_check_mark: `Funcionalidade 1:` CRUD na API
 
-:heavy_check_mark: `Funcionalidade 2:` 
+:heavy_check_mark: `Funcionalidade 2:` Validações de formulário;
 
-:heavy_check_mark: `Funcionalidade 3:` Executa validações por meio de Middlewares;
+:heavy_check_mark: `Funcionalidade 3:` Soft-Delete`;
 
-:heavy_check_mark: `Funcionalidade 4:` Criptografia de senha;
+:heavy_check_mark: `Funcionalidade 4:` Relacionamento entre tabelas;
+
+:heavy_check_mark: `Funcionalidade 4:` Escopos padrão;
 
 
 ## Ferramentas utilizadas
-[![My Skills](https://skillicons.dev/icons?i=nodejs,ts,express,sqlite,orm)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,sequelize,sqlite,)](https://skillicons.dev)
 
 ###
 
