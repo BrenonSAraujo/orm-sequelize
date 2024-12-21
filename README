@@ -19,14 +19,14 @@
 ## Descrição do projeto 
 
 <p align="justify">
- Este projeto simula o backend de uma organização que realiza adoções de animais de estimação. As rotas nela incluem criar adotantes, animais e abrigos, traçando uma relação entre cada entidade, como o tipo de animal adotado por um adotante, por exemplo.
+ Este projeto simula o backend de uma plataforma que disponibiliza cursos nos quais as pessoas podem escolher a categoria e o curso no qual pretendem ingressar.
 </p>
 
 ## Funcionalidades
 
 :heavy_check_mark: `Funcionalidade 1:` CRUD na API
 
-:heavy_check_mark: `Funcionalidade 2:` Armazena os dados no SQLite por meio do TypeORM;
+:heavy_check_mark: `Funcionalidade 2:` 
 
 :heavy_check_mark: `Funcionalidade 3:` Executa validações por meio de Middlewares;
 
