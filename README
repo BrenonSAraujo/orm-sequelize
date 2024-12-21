@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/af79f477-189c-44cf-9fd0-52afc52e0fa1"/>
 <p align="center">
-<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=ABERTO%20PARA%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge" alt="" style="max-width: 100%;"/>
+<img loading="lazy" src="" alt="" style="max-width: 100%;"/>
 </p>
 
 ### Tópicos 
@@ -32,11 +32,13 @@
 
 :heavy_check_mark: `Funcionalidade 4:` Relacionamento entre tabelas;
 
-:heavy_check_mark: `Funcionalidade 4:` Escopos padrão;
+:heavy_check_mark: `Funcionalidade 5:` Escopos padrão;
+
+:heavy_check_mark: `Funcionalidade 6:` Abstração das operações de banco por meio de um ORM;
 
 
 ## Ferramentas utilizadas
-[![My Skills](https://skillicons.dev/icons?i=nodejs,sequelize,sqlite,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=nodejs,express,sequelize,sqlite,)](https://skillicons.dev)
 
 ###
 
@@ -45,14 +47,13 @@
 As principais técnicas e tecnologias abordadas são:
 
 - `NodeJS`: permite executar código JavaScript no lado do servidor;
-- `TypeORM`: ORM permite trabalhar com bancos de dados relacionais de forma orientada a objetos.
 - `Express`: framework de aplicativo web para Node.js que simplifica a criação de aplicativos web e móveis;
-- `Yup`:  para definir regras de validação para estruturas e tipos de dados em aplicativos.
+- `Sequelize`: ORM que permite a interação com bancos de dados relacionais, como o SQLite escolhido no projeto
 - `SQLite`: biblioteca compacta que implementa um banco de dados SQL sem a necessidade de um servidor.
 
 
 ## Acesso ao projeto
-  - ``git clone https://github.com/BrenonSAraujo/adopet.git``: Clone o projeto do GitHub para a sua máquina
+  - ``git clone https://github.com/BrenonSAraujo/orm-sequelize.git``: Clone o projeto do GitHub para a sua máquina
   
   - ``npm i``: Instale as dependências do projeto
   
