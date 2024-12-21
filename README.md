@@ -1,10 +1,11 @@
 <p align="center">
-<img src="https://github.com/user-attachments/assets/af79f477-189c-44cf-9fd0-52afc52e0fa1"/>
+<img src="https://github.com/user-attachments/assets/f4dce359-935b-42b6-bb2a-603fa8a75ffe"/>
 <p align="center">
 <img loading="lazy" src="" alt="" style="max-width: 100%;"/>
 </p>
 
-### Tópicos 
+### Tópicos
+
 
 - [Descrição do projeto](#descrição-do-projeto)
 
