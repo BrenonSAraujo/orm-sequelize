@@ -57,6 +57,8 @@ As principais técnicas e tecnologias abordadas são:
   - ``git clone https://github.com/BrenonSAraujo/orm-sequelize.git``: Clone o projeto do GitHub para a sua máquina
   
   - ``npm i``: Instale as dependências do projeto
+  - 
+  - ``npx sequelize-cli db:migrate``: para executa as migrações
   
-  - ``npm run start``: inicie o servidor da aplicação
+  - ``npx sequelize-cli db:seed:all``: para executar todas as seeds
     
