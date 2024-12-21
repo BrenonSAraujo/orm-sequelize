@@ -1,7 +1,7 @@
 <p align="center">
 <img src="https://github.com/user-attachments/assets/f4dce359-935b-42b6-bb2a-603fa8a75ffe"/>
 <p align="center">
-<img loading="lazy" src="" alt="" style="max-width: 100%;"/>
+<img loading="lazy" src="http://img.shields.io/static/v1?label=STATUS&message=ABERTO%20PARA%20DESENVOLVIMENTO&color=GREEN&style=for-the-badge" alt="" style="max-width: 100%;"/>
 </p>
 
 ### Tópicos
@@ -25,11 +25,11 @@
 
 ## Funcionalidades
 
-:heavy_check_mark: `Funcionalidade 1:` CRUD na API
+:heavy_check_mark: `Funcionalidade 1:` CRUD na API;
 
 :heavy_check_mark: `Funcionalidade 2:` Validações de formulário;
 
-:heavy_check_mark: `Funcionalidade 3:` Soft-Delete`;
+:heavy_check_mark: `Funcionalidade 3:` Soft-Delete;
 
 :heavy_check_mark: `Funcionalidade 4:` Relacionamento entre tabelas;
 
